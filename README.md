@@ -11,3 +11,6 @@ Demo is available here.
 http://cuberoot-portal.surge.sh/test.html
 
 Some of the exclusive features include - Custom Segmentation + Topic Modelling.
+
+Username - suhasagg@yahoo.com
+Password- yahoo
